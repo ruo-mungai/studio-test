@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/studio-test/static/css/main.8aa713b0.css",
+    "main.js": "/studio-test/static/js/main.5350d97a.js",
+    "static/js/787.398f9c76.chunk.js": "/studio-test/static/js/787.398f9c76.chunk.js",
+    "static/media/IMG_8935.jpg": "/studio-test/static/media/IMG_8935.f1dc3903414d70aa3914.jpg",
+    "static/media/DARK BG PROME LOGO.jpg": "/studio-test/static/media/DARK BG PROME LOGO.9b1d44ade81b05c6d7f5.jpg",
+    "static/media/bootstrap-icons.woff?": "/studio-test/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/studio-test/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/studio-test/index.html",
+    "main.8aa713b0.css.map": "/studio-test/static/css/main.8aa713b0.css.map",
+    "main.5350d97a.js.map": "/studio-test/static/js/main.5350d97a.js.map",
+    "787.398f9c76.chunk.js.map": "/studio-test/static/js/787.398f9c76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa713b0.css",
+    "static/js/main.5350d97a.js"
+  ]
+}
